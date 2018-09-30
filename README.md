@@ -1,6 +1,6 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/OlegGorj/deploy-GOservice-on-k8s-example)](https://goreportcard.com/report/github.com/OlegGorj/deploy-GOservice-on-k8s-example)
 
-# deployment of GOservice on Kubernetes
+# deployment of GOlang service on Kubernetes
 
 
 ---
